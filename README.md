@@ -14,7 +14,7 @@
 
 ## Screenshots
 
-Here are some screenshots of the VTS interface:
+Here are some screenshots of the Road-Tax-System interface:
 ![loginpage](/screenshots/login.png)
 *loginpage  overview.*
 ![Dashboard](/screenshots/dashboard.png)
