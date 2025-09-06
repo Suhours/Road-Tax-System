@@ -12,19 +12,6 @@
 - **Search & Filter**: Easily find vehicles by owner, registration number, or status.
 - **Notifications**: Alert users of upcoming due dates or overdue taxes.
 
-## Screenshots
-
-Here are some screenshots of the Road-Tax-System interface:
-![loginpage](/screenshots/login.png)
-*loginpage  overview.*
-![Dashboard](/screenshots/dashboard.png)
-*Admin dashboard overview.*
-
-
-
-
-> To add your own screenshots, place your images in the `assets` directory (or another location of your choice), and update the image paths above.
-
 ## Installation
 
 1. Clone the repository:
